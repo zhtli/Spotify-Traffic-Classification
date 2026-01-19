@@ -87,5 +87,5 @@ At the end of the execution, the pipeline prints the **final predicted content t
 During execution, the prediction is also saved into:
 
 ```md
--`predictions.csv``
+-`predictions.csv`
 ```
