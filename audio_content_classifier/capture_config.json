@@ -1,0 +1,28 @@
+{
+  "song_uris": [
+    "spotify:track:2pbSCYzxrG0wa6qcj8IyiE",
+    "spotify:track:1zMH7Nak15QthI2Y7WrCwg",
+    "spotify:track:3eE2slIDl03bU6VYvnXQZv",
+    "spotify:episode:6YkJqm4DRjYWDfa7SyO6eq",
+    "spotify:episode:1NZibQdCjc6IqINITrjWSq",
+    "spotify:episode:5D1uq9kLKjDzVM3cDjzI1X"
+  ],
+  "streaming_qualities": [
+    "low",
+    "normal",
+    "high",
+    "very-high"
+  ],
+  "pcap_save_dir": "pcap_folder",
+  "interface": "enp0s3",
+  "capture_duration": 60,
+
+  "song_map": {
+    "2pbSCYzxrG0wa6qcj8IyiE": "Cuando No Era Cantante - Remix",
+    "1zMH7Nak15QthI2Y7WrCwg": "JATAR - Aissa, Pedro Calderon",
+    "3eE2slIDl03bU6VYvnXQZv": "Madrid & Dólares - Claudio Montana",
+    "6YkJqm4DRjYWDfa7SyO6eq": "La Ruina (con Samantha Hudson)",
+    "1NZibQdCjc6IqINITrjWSq": "CHARLA CON UN SOLDADO DE FORTUNA | Lo que se siente al matar cara a cara, Estrés Post-Traumático",
+    "5D1uq9kLKjDzVM3cDjzI1X": "ÚLTIMA HORA VENEZUELA:Maduro fue Vendido a EEUU y Este es el Plan Secreto detrás"
+  }
+}
