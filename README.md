@@ -5,7 +5,6 @@ In this project we analyze and classify Spotify encrypted traffic to try to reco
 Inside the folder `spotify_data_capture_process` you will find the script used to capture data from an interface while running spotify.
 
 ## Classifiers
-### Audio Quality Classifier
 ## Audio quality classification
 
 This folder contains two approaches for Spotify audio quality classification: a traffic-based method and a Machine Learning–based method.
