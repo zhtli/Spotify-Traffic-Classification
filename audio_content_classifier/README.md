@@ -15,6 +15,7 @@ audio_content_classifier/
 ├── capture_single_spotify_flow.py
 ├── extract_features.py
 ├── gb_final_v2.joblib
+├── gradient_boosting_holdout.py
 ├── predict.py
 ├── realtime_pipeline.py
 └── show_prediction.py
@@ -30,6 +31,7 @@ audio_content_classifier/
 - `predict.py`: Loads the trained model and predicts the currently playing content title.
 - `show_prediction.py`: Displays the final predicted content title in a readable format.
 - `gb_final_v2.joblib`: Pre-trained ML model used for inference.
+- `gradient_boosting_holdout.py`: Script to train and evaluate a Gradient Boosting model using a holdout validation split.
 - `capture_config.json`: Configuration file for capture parameters (interface, duration, filters, etc.).
 
 ---
