@@ -74,14 +74,16 @@ It automatically runs the full pipeline:
 
 To executed:
 
-````bash
+```bash
 cd audio_content_classifier
 python realtime_pipeline.py
-´´´
+```
+
 ## Output
+
 At the end of the execution, the pipeline prints the **final predicted content title** in the terminal.
 During execution, the prediction is also saved into:
+
 ```md
--`predictions.csv``
----
-````
+## -`predictions.csv``
+```
